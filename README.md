@@ -203,6 +203,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" height="60" alt="cypress logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60" alt="vuejs logo"  />
@@ -226,6 +228,15 @@
   <img src="https://skillicons.dev/icons?i=idea" height="60" alt="intellijidea logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://images.icon-icons.com/3914/PNG/512/playwright_logo_icon_248827.png" height="60" alt="playwright logo"  />
+  <img width="12" />
+  <img src="https://images.icon-icons.com/3914/PNG/512/puppeteer_logo_icon_248752.png" height="60" alt="puppeteer logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" height="60" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/1200px-UML_logo.svg.png" height="60" alt="uml logo"  />
+  <img width="12" />
 </div>
 
 ###
