@@ -237,7 +237,7 @@
 
 ###
 
-<img src="https://github.com/maurodesouza/profile-readme-generator/public/assets/snake.svg" alt="Snake animation" />
+<img src="./snake.yml" alt="Snake animation" />
 
 ###
 
