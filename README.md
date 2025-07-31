@@ -239,7 +239,9 @@
   <img width="12" />
   <img src="https://www.checkops.com/content/images/2024/10/testcafe-logo-6161D2C53D-seeklogo.com.png" height="60" alt="testcafe logo"  />
   <img width="12" />
-  <img src="https://veducate.co.uk/wp-content/uploads/2020/11/Notepad-header-610x250-604x250.png" height="60" alt="notepad++ logo"  />
+  <img src="https://cdn2.steamgriddb.com/logo_thumb/a993ccc69d392bfded3ccd802b9268fc.png" height="60" alt="notepad++ logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" height="60" alt="sublime text logo"  />
   <img width="12" />
 </div>
 
