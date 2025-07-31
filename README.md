@@ -237,7 +237,7 @@
 
 ###
 
-<img src="https://github.com/achraal/achraal.git/snake.yml" alt="Snake animation" />
+<img src="https://github.com/maurodesouza/profile-readme-generator.git/public/assets/snake.svg" alt="Snake animation" />
 
 ###
 
