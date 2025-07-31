@@ -236,10 +236,9 @@
 </div>
 
 ###
-
-<img src="./snake.yml" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="./snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
