@@ -237,6 +237,10 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/1200px-UML_logo.svg.png" height="60" alt="uml logo"  />
   <img width="12" />
+  <img src="https://www.checkops.com/content/images/2024/10/testcafe-logo-6161D2C53D-seeklogo.com.png" height="60" alt="testcafe logo"  />
+  <img width="12" />
+  <img src="https://veducate.co.uk/wp-content/uploads/2020/11/Notepad-header-610x250-604x250.png" height="60" alt="notepad++ logo"  />
+  <img width="12" />
 </div>
 
 ###
