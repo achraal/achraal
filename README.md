@@ -237,7 +237,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/achraal/achraal/output/snake.yml" alt="Snake animation" />
+<img src="https://github.com/achraal/achraal.git/snake.yml" alt="Snake animation" />
 
 ###
 
@@ -255,9 +255,5 @@
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-
-###
-
-###
 
 ###
