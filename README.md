@@ -4,14 +4,18 @@
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1280px-Oracle_logo.svg.png" height="50" alt="oracle logo"  />
-  <img width="4" />
-  <img src="https://blogs.vmware.com/cloud-foundation/wp-content/uploads/sites/75/2025/07/2022-vSphere-Icon.png" height="50" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://blogs.vmware.com/cloud-foundation/wp-content/uploads/sites/75/2025/07/2022-vSphere-Icon.png" height="50" alt="esxi 8 logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="4" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
+  <img src="https://www.meteobridge.com/wiki/images/a/af/Proxmox-logo.png" height="60" alt="proxmox logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.creazilla.com/icons/3243981/expo-icon-lg.png" height="60" alt="expo logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/langfr-120px-Visual_Studio_Icon_2026.svg.png" height="60" alt="visualstudio logo"  />
   <img width="12" />
@@ -21,7 +25,17 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="60" alt="react native logo"  />
   <img width="12" />
+  <img src="https://graphacademy.neo4j.com/courses/cypher-fundamentals/badge/" height="60" alt="cypher logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/fr/c/cc/JavaFX_Logo.png" height="60" alt="javafx logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" height="60" alt="neo4j logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" height="60" alt="fast api logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png" height="60" alt="spyder logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
   <img width="12" />
@@ -168,6 +182,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" height="60" alt="scikit learn logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height="60" alt="opencv logo"  />
   <img width="12" />
