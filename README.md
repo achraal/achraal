@@ -225,8 +225,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="60" alt="intellijidea logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
   <img width="12" />
   <img src="https://images.icon-icons.com/3914/PNG/512/playwright_logo_icon_248827.png" height="60" alt="playwright logo"  />
