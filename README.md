@@ -3,8 +3,12 @@
 ###
 
 <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1280px-Oracle_logo.svg.png" height="50" alt="oracle logo"  />
+  <img width="4" />
+  <img src="https://blogs.vmware.com/cloud-foundation/wp-content/uploads/sites/75/2025/07/2022-vSphere-Icon.png" height="50" alt="typescript logo"  />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
