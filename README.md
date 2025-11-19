@@ -205,7 +205,7 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" height="60" alt="cypress logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
+  <img src="https://apps.microsoft.com/detail/xpdcfjdklzjlp8?hl=fa-IR&gl=EC" height="60" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60" alt="vuejs logo"  />
   <img width="12" />
