@@ -9,6 +9,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/langfr-120px-Visual_Studio_Icon_2026.svg.png" height="60" alt="visualstudio logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
@@ -204,8 +206,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" height="60" alt="cypress logo"  />
-  <img width="12" />
-  <img src="https://apps.microsoft.com/detail/xpdcfjdklzjlp8?hl=fa-IR&gl=EC" height="60" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60" alt="vuejs logo"  />
   <img width="12" />
