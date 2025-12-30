@@ -65,11 +65,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
   <img width="12" />
+  <img src="https://docs.taiga.io/imgs/logo.png" height="60" alt="taiga logo"  />
+  <img width="12" />
+  <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-512x646.png" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/1200px-Jira_Logo.svg.png" height="60" alt="jira logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://sequoiacap.com/wp-content/uploads/sites/6/2023/08/name-and-logo-path.svg" height="60" alt="pydantic logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://pypi-camo.freetls.fastly.net/9cafceef46b86e41c4a7824e0f64b902322101f5/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f746f6d63687269737469652f757669636f726e2f6d61696e2f646f63732f757669636f726e2e706e67" height="60" alt="uvicorn logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/1200px-WebSocket_colored_logo.svg.png" height="60" alt="websockets logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/scrumorg-1.svg" height="60" alt="scrum logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="60" alt="centos logo"  />
   <img width="12" />
