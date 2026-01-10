@@ -39,6 +39,10 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" height="60" alt="fast api logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" height="60" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png" height="60" alt="spyder logo"  />
@@ -115,8 +119,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60" alt="docker logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="60" alt="dot-net logo"  />
@@ -170,8 +172,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="60" alt="jetbrains logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
   <img width="12" />
@@ -259,8 +259,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="60" alt="apachecassandra logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="60" alt="apachemaven logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="60" alt="discord logo"  />
@@ -271,10 +269,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/openstack/ED1944" height="60" alt="openstack logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
-  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
   <img width="12" />
   <img src="https://images.icon-icons.com/3914/PNG/512/playwright_logo_icon_248827.png" height="60" alt="playwright logo"  />
