@@ -19,11 +19,17 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/langfr-120px-Visual_Studio_Icon_2026.svg.png" height="60" alt="visualstudio logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1280px-Cassandra_logo.svg.png" height="60" alt="cassandra logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Docker_Logo.png" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Windows_Subsystem_for_Linux_logo.png" height="60" alt="wsl logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="60" alt="react native logo"  />
+  <img src="https://www.iquest.cz/_next/image?url=%2Ftechnology%2Freact-native.png&w=640&q=75" height="60" alt="react native logo"  />
   <img width="12" />
   <img src="https://graphacademy.neo4j.com/courses/cypher-fundamentals/badge/" height="60" alt="cypher logo"  />
   <img width="12" />
@@ -36,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png" height="60" alt="spyder logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" height="60" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" height="60" alt="matplotlib logo"  />
   <img width="12" />
