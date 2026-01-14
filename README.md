@@ -41,6 +41,8 @@
   <img width="12" />
   <img src="https://pypi-camo.freetls.fastly.net/ef5bddae9a8a975d7be7a05765bc6f2665ac7a1a/68747470733a2f2f6769746875622e636f6d2f737472617762657272792d6772617068716c2f737472617762657272792f7261772f6d61696e2f2e6769746875622f6c6f676f2e706e67" height="60" alt="strawberry logo"  />
   <img width="12" />
+  <img src="https://cdn.creazilla.com/icons/3254069/material-ui-icon-size_256.png" height="60" alt="mui logo"  />
+  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" height="60" alt="apollo logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
