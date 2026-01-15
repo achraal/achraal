@@ -59,7 +59,15 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" height="60" alt="matplotlib logo"  />
   <img width="12" />
+  <img src="https://user-images.githubusercontent.com/42001064/120057695-b1f6c680-c062-11eb-96d5-2c43d05f9018.png" height="60" alt="tkinterdesigner logo"  />
+  <img width="12" />
+  <img src="https://torrentmac.name/_ld/30/88066787.png" height="60" alt="tkinter logo"  />
+  <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="60" alt="seaborn logo"  />
+  <img width="12" />
+  <img src="https://customtkinter.tomschimansky.com/img/icon.ico" height="60" alt="customtkinter logo"  />
+  <img width="12" />
+  <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy_logo300x300.png" height="60" alt="scipy logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" height="60" alt="numpy logo"  />
   <img width="12" />
