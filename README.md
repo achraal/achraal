@@ -7,30 +7,65 @@
   <img width="12" />
   <img src="https://blogs.vmware.com/cloud-foundation/wp-content/uploads/sites/75/2025/07/2022-vSphere-Icon.png" height="50" alt="esxi 8 logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/960px-Grafana_logo.svg.png" height="60" alt="grafana logo"  />
   <img width="12" />
-  <img src="https://www.meteobridge.com/wiki/images/a/af/Proxmox-logo.png" height="60" alt="proxmox logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png" height="60" alt="spyder logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" height="60" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.creazilla.com/icons/3243981/expo-icon-lg.png" height="60" alt="expo logo"  />
+  <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwvxys08ydyvjkuivjlqt.png" height="70" alt="jwt logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/langfr-120px-Visual_Studio_Icon_2026.svg.png" height="60" alt="visualstudio logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1280px-Prometheus_software_logo.svg.png" height="60" alt="prometheus logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1280px-Cassandra_logo.svg.png" height="60" alt="cassandra logo"  />
+  <img src="https://pypi-camo.freetls.fastly.net/ef5bddae9a8a975d7be7a05765bc6f2665ac7a1a/68747470733a2f2f6769746875622e636f6d2f737472617762657272792d6772617068716c2f737472617762657272792f7261772f6d61696e2f2e6769746875622f6c6f676f2e706e67" height="60" alt="strawberry logo"  />
+  <img width="12" />
+  <img src="https://cdn.creazilla.com/icons/3254069/material-ui-icon-size_256.png" height="60" alt="mui logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" height="60" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-512x646.png" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" height="60" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/1200px-Jira_Logo.svg.png" height="60" alt="jira logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Docker_Logo.png" height="60" alt="docker logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/960px-GraphQL_Logo.svg.png" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/langfr-120px-Visual_Studio_Icon_2026.svg.png" height="60" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png" height="60" alt="sap logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png" height="60" alt="odoo logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1280px-Cassandra_logo.svg.png" height="60" alt="cassandra logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_Proxmox.svg/1280px-Logo_Proxmox.svg.png?20240424224823" height="60" alt="proxmox logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Windows_Subsystem_for_Linux_logo.png" height="60" alt="wsl logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/960px-Go_Logo_Blue.svg.png" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/500px-Svelte_Logo.svg.png" height="60" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" height="60" alt="hadoop logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://www.iquest.cz/_next/image?url=%2Ftechnology%2Freact-native.png&w=640&q=75" height="60" alt="react native logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" height="60" alt="spark logo"  />
+  <img width="12" />
+  <img src="https://wp.logos-download.com/wp-content/uploads/2024/01/Spring_Boot_Logo_full.png?dl" height="60" alt="spring logo"  />
+  <img width="12" />
+
   <img src="https://graphacademy.neo4j.com/courses/cypher-fundamentals/badge/" height="60" alt="cypher logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/fr/c/cc/JavaFX_Logo.png" height="60" alt="javafx logo"  />
@@ -39,23 +74,25 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" height="60" alt="fast api logo"  />
   <img width="12" />
-  <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwvxys08ydyvjkuivjlqt.png" height="70" alt="jwt logo"  />
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="60" alt="selenium logo"  />
   <img width="12" />
-  <img src="https://pypi-camo.freetls.fastly.net/ef5bddae9a8a975d7be7a05765bc6f2665ac7a1a/68747470733a2f2f6769746875622e636f6d2f737472617762657272792d6772617068716c2f737472617762657272792f7261772f6d61696e2f2e6769746875622f6c6f676f2e706e67" height="60" alt="strawberry logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.creazilla.com/icons/3254069/material-ui-icon-size_256.png" height="60" alt="mui logo"  />
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/hibernate-logo.png" height="60" alt="hibernate logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/OpenStack%C2%AE_Logo_2016.svg/960px-OpenStack%C2%AE_Logo_2016.svg.png" height="60" alt="openstack logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Microsoft_Dynamics_365_Logo_%282021%E2%80%93present%29.svg/1280px-Microsoft_Dynamics_365_Logo_%282021%E2%80%93present%29.svg.png?20250601180652" height="60" alt="ms dynamics logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_of_WireGuard.svg" height="60" alt="wireguard logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" height="60" alt="apollo logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
   <img width="12" />
   <img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png" height="60" alt="spyder logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" height="60" alt="jupyter logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" height="60" alt="apache logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" height="60" alt="matplotlib logo"  />
   <img width="12" />
@@ -87,26 +124,24 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/960px-Apache_Maven_logo.svg.png" height="60" alt="maven logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="60" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" height="60" alt="apachekafka logo"  />
+  <img src="https://www.svgrepo.com/show/353950/kafka.svg" height="60" alt="apachekafka logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="60" alt="arduino logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.creazilla.com/icons/3243981/expo-icon-lg.png" height="60" alt="expo logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" height="60" alt="vite logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
   <img width="12" />
   <img src="https://docs.taiga.io/imgs/logo.png" height="60" alt="taiga logo"  />
   <img width="12" />
-  <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-512x646.png" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/1200px-Jira_Logo.svg.png" height="60" alt="jira logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://sequoiacap.com/wp-content/uploads/sites/6/2023/08/name-and-logo-path.svg" height="60" alt="pydantic logo"  />
@@ -197,8 +232,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="60" alt="latex logo"  />
@@ -220,10 +254,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="60" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" height="60" alt="opensuse logo"  />
   <img width="12" />
@@ -259,12 +289,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="60" alt="scala logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="60" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="60" alt="symfony logo"  />
@@ -277,18 +302,13 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" height="60" alt="cypress logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="60" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="60" alt="apachemaven logo"  />
-  <img width="12" />
+
+
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="60" alt="discord logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="60" alt="eclipseide logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="60" alt="hibernate logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/openstack/ED1944" height="60" alt="openstack logo"  />
-  <img width="12" />
+
   
   <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
   <img width="12" />
