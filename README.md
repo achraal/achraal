@@ -1,4 +1,9 @@
-<h4 align="center">Hey 👋What's Up?<br>4th year student in Computer and Network Engineering at EMSI and recent graduate of ISGI Digital Infrastructure option Systems and Networks. IT professional particularly in systems administration, networks, and databases; in IT development with a mastery of the main programming languages and their Frameworks; in virtualization and cloud technologies and finally in IS analysis and design. Passionate about new technologies and having numerous projects that strengthen my knowledge. Constantly monitoring the latest innovations in the sector. Rigorous, autonomous, analytical mind, problem solving, and adaptable.</h4>
+# Hi there, I'm AIT LAHCEN Achraf ! 👋
+
+### 🎓 Future Software Engineer | Business Information Systems Engineering Student
+I am a 4th-year Computer Science Engineering student specializing in **Business Information Systems Engineering** at EMSI and a graduate of ISGI in Digital Infrastructure **Systems and Networks**. I sit at the crossroads of technical innovation and business strategy, building scalable solutions that solve real-world enterprise problems.
+
+*“The best way to predict the future is to invent it. — Alan Kay”*
 
 ###
 
