@@ -3,9 +3,10 @@
 ### 🎓 Future Software Engineer | Business Information Systems Engineering Student
 I am a 4th-year Computer Science Engineering student specializing in **Business Information Systems Engineering** at EMSI and a graduate of ISGI in Digital Infrastructure **Systems and Networks**. I sit at the crossroads of technical innovation and business strategy, building scalable solutions that solve real-world enterprise problems.
 
-*“The best way to predict the future is to invent it. — Alan Kay”*
-
-###
+<p align="center">
+  <i>"The best way to predict the future is to invent it."</i><br>
+  — <b>Alan Kay</b>
+</p>
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1280px-Oracle_logo.svg.png" height="50" alt="oracle logo"  />
