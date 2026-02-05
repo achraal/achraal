@@ -71,6 +71,8 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://wp.logos-download.com/wp-content/uploads/2024/01/Spring_Boot_Logo_full.png?dl" height="60" alt="spring logo"  />
   <img width="12" />
+  <img src="https://www.playframework.com/assets/images/logos/play_full_color.png" height="60" alt="play logo"  />
+  <img width="12" />
 
   <img src="https://graphacademy.neo4j.com/courses/cypher-fundamentals/badge/" height="60" alt="cypher logo"  />
   <img width="12" />
