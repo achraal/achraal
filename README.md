@@ -43,8 +43,11 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/langfr-120px-Visual_Studio_Icon_2026.svg.png" height="60" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png" height="60" alt="sap logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/fr/6/67/Jakarta_ee_logo_stacked.png" height="60" alt="jee logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png" height="60" alt="sap logo"  />
+  <img width="5" />
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png" height="60" alt="odoo logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1280px-Cassandra_logo.svg.png" height="60" alt="cassandra logo"  />
@@ -73,7 +76,8 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://www.playframework.com/assets/images/logos/play_full_color.png" height="60" alt="play logo"  />
   <img width="12" />
-
+  <img src="https://img.icons8.com/color/512/redis.png" height="60" alt="redis logo"  />
+  <img width="12" />
   <img src="https://graphacademy.neo4j.com/courses/cypher-fundamentals/badge/" height="60" alt="cypher logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/fr/c/cc/JavaFX_Logo.png" height="60" alt="javafx logo"  />
