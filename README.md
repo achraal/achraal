@@ -33,18 +33,19 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-512x646.png" height="60" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" height="60" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/1200px-Jira_Logo.svg.png" height="60" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Docker_Logo.png" height="60" alt="docker logo"  />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/960px-GraphQL_Logo.svg.png" height="60" alt="graphql logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/langfr-120px-Visual_Studio_Icon_2026.svg.png" height="60" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/fr/6/67/Jakarta_ee_logo_stacked.png" height="60" alt="jee logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" height="60" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/1200px-Jira_Logo.svg.png" height="60" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Docker_Logo.png" height="60" alt="docker logo"  />
+  <img width="12" />
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png" height="60" alt="sap logo"  />
   <img width="5" />
   
