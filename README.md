@@ -15,6 +15,8 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="4" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
   <img width="12" />
+  <img src="https://static.wikia.nocookie.net/logopedia/images/4/4a/Google_Antigravity_icon.svg/revision/latest/scale-to-width-down/1200?cb=20251119202403" height="60" alt="antigravity logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/960px-Grafana_logo.svg.png" height="60" alt="grafana logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png" height="60" alt="spyder logo"  />
@@ -42,6 +44,10 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" height="60" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/1200px-Jira_Logo.svg.png" height="60" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/960px-Tensorflow_logo.svg.png" height="60" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/960px-PyTorch_logo_icon.svg.png?20200318225611" height="60" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Docker_Logo.png" height="60" alt="docker logo"  />
   <img width="12" />
