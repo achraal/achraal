@@ -329,14 +329,10 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" height="60" alt="cypress logo"  />
   <img width="12" />
-
-
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="60" alt="discord logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="60" alt="eclipseide logo"  />
-  <img width="12" />
-
-  
+  <img width="12" />  
   <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
   <img width="12" />
   <img src="https://images.icon-icons.com/3914/PNG/512/playwright_logo_icon_248827.png" height="60" alt="playwright logo"  />
