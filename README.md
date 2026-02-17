@@ -54,7 +54,13 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png" height="60" alt="sap logo"  />
   <img width="5" />
-  
+  <img src="https://brandlogos.net/wp-content/uploads/2025/06/chroma-logo_brandlogos.net_1z1qk.png" height="60" alt="chroma logo"  />
+  <img width="5" />
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pinecone-icon-ye23mxqezdqo34qhde01eg.png/pinecone-icon-gw5gzfji55rizxc6hfnhpa.png?_a=DATAiZAAZAA0" height="60" alt="pinecone logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/960px-Android_Studio_Logo_%282023%29.svg.png" height="60" alt="android studio logo"  />
+  <img width="5" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="60" alt="next js logo"  />
+  <img width="5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png" height="60" alt="odoo logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1280px-Cassandra_logo.svg.png" height="60" alt="cassandra logo"  />
@@ -91,7 +97,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" height="60" alt="neo4j logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" height="60" alt="fast api logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/1280px-FastAPI_logo.svg.png" height="60" alt="fast api logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="60" alt="selenium logo"  />
   <img width="12" />
