@@ -56,7 +56,12 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="5" />
   <img src="https://brandlogos.net/wp-content/uploads/2025/06/chroma-logo_brandlogos.net_1z1qk.png" height="60" alt="chroma logo"  />
   <img width="5" />
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pinecone-icon-ye23mxqezdqo34qhde01eg.png/pinecone-icon-gw5gzfji55rizxc6hfnhpa.png?_a=DATAiZAAZAA0" height="60" alt="pinecone logo"  />
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pinecone-icon-ye23mxqezdqo34qhde01eg.png/pinecone-icon-gw5gzfji55rizxc6hfnhpa.png?_a=DATAiZAAZAA0" height="60" alt="pinecone logo"/>
+  <img width="5" />
+  <img src="https://store-images.s-microsoft.com/image/apps.36868.bfb0e2ee-be9e-4c73-807f-e0a7b805b1be.712aff5d-5800-47e0-97be-58d17ada3fb8.a46845e6-ce94-44cf-892b-54637c6fcf06" height="60" alt="dash plotly logo"/>
+  <img width="5" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" height="70" alt="streamlit logo"/>
+  <img width="5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/960px-Android_Studio_Logo_%282023%29.svg.png" height="60" alt="android studio logo"  />
   <img width="5" />
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="60" alt="next js logo"  />
