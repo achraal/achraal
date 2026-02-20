@@ -41,6 +41,8 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/fr/6/67/Jakarta_ee_logo_stacked.png" height="60" alt="jee logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/swagger.webp" height="60" alt="swagger logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" height="60" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/1200px-Jira_Logo.svg.png" height="60" alt="jira logo"  />
