@@ -25,6 +25,9 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" height="60" alt="jupyter logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png" height="60" alt="gemini logo"  />
+  <img width="12" />
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="70" alt="kotlin logo"  />
   <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwvxys08ydyvjkuivjlqt.png" height="70" alt="jwt logo"  />
   <img width="12" />
@@ -246,6 +249,8 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img src="https://skillicons.dev/icons?i=gradle" height="60" alt="gradle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="60" alt="groovy logo"  />
+  <img width="12" />
+  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" height="60" alt="packet tracer logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" height="60" alt="heroku logo"  />
   <img width="12" />
