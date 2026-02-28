@@ -10,9 +10,9 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1280px-Oracle_logo.svg.png" height="50" alt="oracle logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://blogs.vmware.com/cloud-foundation/wp-content/uploads/sites/75/2025/07/2022-vSphere-Icon.png" height="50" alt="esxi 8 logo"  />
-  <img width="4" />
+  <img width="3" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
   <img width="12" />
   <img src="https://static.wikia.nocookie.net/logopedia/images/4/4a/Google_Antigravity_icon.svg/revision/latest/scale-to-width-down/1200?cb=20251119202403" height="60" alt="antigravity logo"  />
@@ -26,8 +26,9 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" height="60" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png" height="60" alt="gemini logo"  />
-  <img width="12" />
-  
+  <img width="5" />
+  <img src="https://images.ctfassets.net/ooa29xqb8tix/304Tlb60pUSlhG8CMC5gUf/4bc2717aad54e15dd68d275520eb06d8/claude-code.svg" height="80" alt="claude code logo"  />
+  <img width="5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="70" alt="kotlin logo"  />
   <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwvxys08ydyvjkuivjlqt.png" height="70" alt="jwt logo"  />
   <img width="12" />
@@ -59,7 +60,8 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Docker_Logo.png" height="60" alt="docker logo"  />
   <img width="12" />
-  
+  <img src="https://avatars.githubusercontent.com/u/1474884?v=4" height="60" alt="nikto logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png" height="60" alt="sap logo"  />
   <img width="5" />
   <img src="https://brandlogos.net/wp-content/uploads/2025/06/chroma-logo_brandlogos.net_1z1qk.png" height="60" alt="chroma logo"  />
@@ -67,6 +69,10 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pinecone-icon-ye23mxqezdqo34qhde01eg.png/pinecone-icon-gw5gzfji55rizxc6hfnhpa.png?_a=DATAiZAAZAA0" height="60" alt="pinecone logo"/>
   <img width="5" />
   <img src="https://store-images.s-microsoft.com/image/apps.36868.bfb0e2ee-be9e-4c73-807f-e0a7b805b1be.712aff5d-5800-47e0-97be-58d17ada3fb8.a46845e6-ce94-44cf-892b-54637c6fcf06" height="60" alt="dash plotly logo"/>
+  <img width="5" />
+  <img src="https://cybertzar.com/wp-content/uploads/2022/11/zap-logo.png" height="60" alt="owasp zap logo"/>
+  <img width="5" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" height="60" alt="metasploit logo"/>
   <img width="5" />
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" height="70" alt="streamlit logo"/>
   <img width="5" />
