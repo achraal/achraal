@@ -64,6 +64,8 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png" height="60" alt="sap logo"  />
   <img width="5" />
+  <img src="https://static.cdnlogo.com/logos/s/96/supabase-icon_800.png" height="60" alt="supabase logo"  />
+  <img width="5" />
   <img src="https://brandlogos.net/wp-content/uploads/2025/06/chroma-logo_brandlogos.net_1z1qk.png" height="60" alt="chroma logo"  />
   <img width="5" />
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pinecone-icon-ye23mxqezdqo34qhde01eg.png/pinecone-icon-gw5gzfji55rizxc6hfnhpa.png?_a=DATAiZAAZAA0" height="60" alt="pinecone logo"/>
