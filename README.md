@@ -147,7 +147,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/42001064/120057695-b1f6c680-c062-11eb-96d5-2c43d05f9018.png" height="60" alt="tkinterdesigner logo"  />
   <img width="12" />
-  <img src="https://torrentmac.name/_ld/30/88066787.png" height="60" alt="tkinter logo"  />
+  <img src="" height="60" alt="tkinter logo"  />
   <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="60" alt="seaborn logo"  />
   <img width="12" />
@@ -157,7 +157,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/1280px-N8n-logo-new.svg.png" height="60" alt="n8n logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" height="60" alt="numpy logo"  />
+  <img src="https://images.seeklogo.com/logo-png/39/2/numpy-logo-png_seeklogo-398690.png" height="60" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
   <img width="12" />
@@ -187,12 +187,14 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
   <img width="12" />
-
+  <img src="https://avatars.githubusercontent.com/u/56967200?s=280&v=4" height="60" alt="wokwi logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
   <img width="12" />
   <img src="https://docs.taiga.io/imgs/logo.png" height="60" alt="taiga logo"  />
   <img width="12" />
-
+  <img src="https://www.hivemq.com/sb-assets/f/243938/3334x3334/6bd7143c21/03-hivemq-vert.png/m/" height="60" alt="hivemq logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://sequoiacap.com/wp-content/uploads/sites/6/2023/08/name-and-logo-path.svg" height="60" alt="pydantic logo"  />
