@@ -23,7 +23,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" height="60" alt="ollama logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" height="60" alt="jupyter logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="60" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png" height="60" alt="gemini logo"  />
   <img width="5" />
@@ -31,19 +31,29 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="60" alt="kotlin logo"  />
   <img width="12" />
+  <img src="https://www.datocms-assets.com/2885/1627584818-ngrok-black.svg?auto=format&fit=max&w=1200" height="60" alt="ngrok logo"  />
+  <img width="12" />
   <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwvxys08ydyvjkuivjlqt.png" height="70" alt="jwt logo"  />
   <img width="12" />
   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2024/09/uv.svg.png" height="70" alt="uv logo"  />
   <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1280px-Prometheus_software_logo.svg.png" height="60" alt="prometheus logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1280px-Prometheus_software_logo.svg.png" height="60" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://algo-mania.com/wp-content/uploads/2025/05/mediapipe_logo.png" height="60" alt="mediapipe logo"  />
   <img width="12" />
   <img src="https://pypi-camo.freetls.fastly.net/ef5bddae9a8a975d7be7a05765bc6f2665ac7a1a/68747470733a2f2f6769746875622e636f6d2f737472617762657272792d6772617068716c2f737472617762657272792f7261772f6d61696e2f2e6769746875622f6c6f676f2e706e67" height="60" alt="strawberry logo"  />
+  <img width="12" />
+  <img src="https://yolov8.org/wp-content/uploads/2024/01/cropped-63f6895d515270ffdafd36d5_yolov8.png" height="60" alt="yolo logo"  />
   <img width="12" />
   <img src="https://cdn.creazilla.com/icons/3254069/material-ui-icon-size_256.png" height="60" alt="mui logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" height="60" alt="vite logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg/1280px-Extensible_Markup_Language_%28XML%29_logo.svg.png" height="60" alt="xml logo"  />
+  <img width="12" />
   <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-512x646.png" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/3840px-Google_Colaboratory_SVG_Logo.svg.png" height="60" alt="google colab logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/960px-GraphQL_Logo.svg.png" height="60" alt="graphql logo"  />
   <img width="12" />
