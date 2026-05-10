@@ -37,6 +37,9 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwvxys08ydyvjkuivjlqt.png" height="70" alt="jwt logo"  />
   <img width="12" />
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAiZAAZAA0" height="70" alt="langchain logo"  />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" height="70" alt="langgraph logo"  />
+  <img width="12" />
   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2024/09/uv.svg.png" height="70" alt="uv logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1280px-Prometheus_software_logo.svg.png" height="60" alt="prometheus logo"  />
