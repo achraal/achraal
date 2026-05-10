@@ -29,7 +29,8 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="5" />
   <img src="https://images.ctfassets.net/ooa29xqb8tix/304Tlb60pUSlhG8CMC5gUf/4bc2717aad54e15dd68d275520eb06d8/claude-code.svg" height="80" alt="claude code logo"  />
   <img width="5" />
-  
+  <img src="https://objectcomputing.com/download_file/5208" height="60" alt="micronaut logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="60" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://www.datocms-assets.com/2885/1627584818-ngrok-black.svg?auto=format&fit=max&w=1200" height="60" alt="ngrok logo"  />
