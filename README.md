@@ -90,7 +90,13 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="5" />
   <img src="https://static.cdnlogo.com/logos/s/96/supabase-icon_800.png" height="60" alt="supabase logo"  />
   <img width="5" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/crewai-brand-color.png" height="60" alt="crewai logo"  />
+  <img width="5" />
   <img src="https://brandlogos.net/wp-content/uploads/2025/06/chroma-logo_brandlogos.net_1z1qk.png" height="60" alt="chroma logo"  />
+  <img width="5" />
+  <img src="https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-red.png" height="60" alt="qdrant logo"  />
+  <img width="5" />
+  <img src="https://docling-project.github.io/docling/assets/logo.png" height="60" alt="docling logo"  />
   <img width="5" />
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pinecone-icon-ye23mxqezdqo34qhde01eg.png/pinecone-icon-gw5gzfji55rizxc6hfnhpa.png?_a=DATAiZAAZAA0" height="60" alt="pinecone logo"/>
   <img width="5" />
