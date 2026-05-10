@@ -29,6 +29,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="5" />
   <img src="https://images.ctfassets.net/ooa29xqb8tix/304Tlb60pUSlhG8CMC5gUf/4bc2717aad54e15dd68d275520eb06d8/claude-code.svg" height="80" alt="claude code logo"  />
   <img width="5" />
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="60" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://www.datocms-assets.com/2885/1627584818-ngrok-black.svg?auto=format&fit=max&w=1200" height="60" alt="ngrok logo"  />
@@ -57,6 +58,8 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/960px-GraphQL_Logo.svg.png" height="60" alt="graphql logo"  />
   <img width="12" />
+  <img src="https://surrealdb.com/static/icon/icon.png" height="70" alt="SurrealDB logo"  />
+  <img width="5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/langfr-120px-Visual_Studio_Icon_2026.svg.png" height="60" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/fr/6/67/Jakarta_ee_logo_stacked.png" height="60" alt="jee logo"  />
@@ -115,7 +118,21 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.casbin.org/img/casdoor-logo_1185x256.png" height="60" alt="casdoor logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/3840px-New_Power_BI_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="60" alt="powerbi logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/59758427?s=280&v=4" height="60" alt="airbyte logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/AirflowLogo.svg/1280px-AirflowLogo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="60" alt="airflow logo"  />
+  <img width="12" />
+  <img src="https://logos-world.net/wp-content/uploads/2022/11/Snowflake-Emblem.png" height="60" alt="snowflake logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="60" alt="tableau logo" />
+  <img width="12" />
   <img src="https://www.iquest.cz/_next/image?url=%2Ftechnology%2Freact-native.png&w=640&q=75" height="60" alt="react native logo"  />
+  <img width="12" />
+  <img src="https://www.stat4decision.com/wp-content/uploads/2025/03/dbt-logo.png" height="60" alt="dbt (data build tool) logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" height="60" alt="spark logo"  />
   <img width="12" />
