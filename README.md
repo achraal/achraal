@@ -75,6 +75,10 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/960px-PyTorch_logo_icon.svg.png?20200318225611" height="60" alt="pytorch logo"  />
   <img width="12" />
+  <img src="https://apache.org/logos/res/superset/superset-2_highres.png" height="60" alt="Apache Superset logo"  />
+  <img width="12" />
+  <img src="https://static.cdnlogo.com/logos/r/24/rabbitmq_thumb.png" height="60" alt="RabbitMQ logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Docker_Logo.png" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/1474884?v=4" height="60" alt="nikto logo"  />
