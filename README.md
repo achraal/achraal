@@ -19,7 +19,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/960px-Grafana_logo.svg.png" height="60" alt="grafana logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png" height="60" alt="spyder logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/250px-Spyder_logo.svg.png" height="60" alt="spyder logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" height="60" alt="ollama logo"  />
   <img width="12" />
@@ -29,7 +29,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="5" />
   <img src="https://images.ctfassets.net/ooa29xqb8tix/304Tlb60pUSlhG8CMC5gUf/4bc2717aad54e15dd68d275520eb06d8/claude-code.svg" height="80" alt="claude code logo"  />
   <img width="5" />
-  <img src="https://objectcomputing.com/download_file/5208" height="60" alt="micronaut logo"  />
+  <img src="https://guides.micronaut.io/latest/images/micronaut_stacked_black.png" height="60" alt="micronaut logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="60" alt="kotlin logo"  />
   <img width="12" />
@@ -52,7 +52,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://cdn.creazilla.com/icons/3254069/material-ui-icon-size_256.png" height="60" alt="mui logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" height="60" alt="vite logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vite_Logo_2026.svg/3840px-Vite_Logo_2026.svg.png" height="60" alt="vite logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg/1280px-Extensible_Markup_Language_%28XML%29_logo.svg.png" height="60" alt="xml logo"  />
   <img width="12" />
@@ -72,7 +72,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" height="60" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/1200px-Jira_Logo.svg.png" height="60" alt="jira logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" height="60" alt="jira logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/960px-Tensorflow_logo.svg.png" height="60" alt="tensorflow logo"  />
   <img width="12" />
@@ -158,8 +158,6 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://img.icons8.com/color/512/redis.png" height="60" alt="redis logo"  />
   <img width="12" />
-  <img src="https://graphacademy.neo4j.com/courses/cypher-fundamentals/badge/" height="60" alt="cypher logo"  />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/fr/c/cc/JavaFX_Logo.png" height="60" alt="javafx logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" height="60" alt="neo4j logo"  />
@@ -186,7 +184,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" height="60" alt="apache logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" height="60" alt="matplotlib logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/250px-Created_with_Matplotlib-logo.svg.png?_=20150219130408" height="60" alt="matplotlib logo"  />
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/42001064/120057695-b1f6c680-c062-11eb-96d5-2c43d05f9018.png" height="60" alt="tkinterdesigner logo"  />
   <img width="12" />
@@ -246,7 +244,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://pypi-camo.freetls.fastly.net/9cafceef46b86e41c4a7824e0f64b902322101f5/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f746f6d63687269737469652f757669636f726e2f6d61696e2f646f63732f757669636f726e2e706e67" height="60" alt="uvicorn logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/1200px-WebSocket_colored_logo.svg.png" height="60" alt="websockets logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/3840px-WebSocket_colored_logo.svg.png" height="60" alt="websockets logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
@@ -406,9 +404,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://images.icon-icons.com/3914/PNG/512/puppeteer_logo_icon_248752.png" height="60" alt="puppeteer logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" height="60" alt="sql logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/1200px-UML_logo.svg.png" height="60" alt="uml logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/1280px-UML_logo.svg.png" height="60" alt="uml logo"  />
   <img width="12" />
   <img src="https://www.checkops.com/content/images/2024/10/testcafe-logo-6161D2C53D-seeklogo.com.png" height="60" alt="testcafe logo"  />
   <img width="12" />
