@@ -33,6 +33,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="60" alt="kotlin logo"  />
   <img width="12" />
+  
   <img src="https://www.datocms-assets.com/2885/1627584818-ngrok-black.svg?auto=format&fit=max&w=1200" height="60" alt="ngrok logo"  />
   <img width="12" />
   <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwvxys08ydyvjkuivjlqt.png" height="70" alt="jwt logo"  />
@@ -54,6 +55,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vite_Logo_2026.svg/3840px-Vite_Logo_2026.svg.png" height="60" alt="vite logo"  />
   <img width="12" />
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg/1280px-Extensible_Markup_Language_%28XML%29_logo.svg.png" height="60" alt="xml logo"  />
   <img width="12" />
   <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-512x646.png" height="60" alt="firebase logo"  />
@@ -108,6 +110,8 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" height="60" alt="metasploit logo"/>
   <img width="5" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="60" alt="latex logo"  />
+  <img width="12" />
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" height="70" alt="streamlit logo"/>
   <img width="5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/960px-Android_Studio_Logo_%282023%29.svg.png" height="60" alt="android studio logo"  />
