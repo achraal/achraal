@@ -9,6 +9,32 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
 </p>
 
 <div align="center">
+  <img src="https://i.logos-download.com/114230/31110-a45dfa1ab82fc985b56eec1578d61844.png/Qwen_Logo_full.png?dl" height="60" alt="qwen logo"  />
+  <img width="12" />
+  <img src="https://mkp-products.obs.ru-moscow-1.hc.sbercloud.ru/c1aa07bf-8a35-473a-ac9b-ba16f7b0b1e6%2Flogo" height="60" alt="bge-m3 logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/encode/httpx/master/docs/img/butterfly.png" height="60" alt="httpx logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/IBM_granite_2_cubes_logo.svg/960px-IBM_granite_2_cubes_logo.svg.png" height="60" alt="granite logo"  />
+  <img width="12" />
+  <img src="https://repository-images.githubusercontent.com/156939672/37b1cb00-864b-11eb-8220-76153935f7da" height="60" alt="onnxruntime logo"  />
+  <img width="6" />
+  <img src="https://www.oceanxtech.com/wp-content/uploads/2025/01/paddle-paddle-logo-rwd.png.rendition.intel_.web_.480.270.png" height="60" alt="paddlepaddle logo"  />
+  <img width="12" />
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641740033666/3ZZGlgI9h.png" height="75" alt="beautifulsoup logo"  />
+  <img width="6" />
+  
+  <img src="https://support.getalembic.com/hc/theming_assets/01HZH3YX56SR6WB38CW3K54G1A" height="60" alt="alembic logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/glmv-color.png" height="60" alt="glm-ocr logo"  />
+  <img width="12" />
+  
+  <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" height="60" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" height="70" alt="langchain logo"  />
+  <img src="https://avatars.githubusercontent.com/u/48152365?s=280&v=4" height="60" alt="pymupdf logo"  />
+  <img width="12" />
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1280px-Oracle_logo.svg.png" height="50" alt="oracle logo"  />
   <img width="3" />
   <img src="https://blogs.vmware.com/cloud-foundation/wp-content/uploads/sites/75/2025/07/2022-vSphere-Icon.png" height="50" alt="esxi 8 logo"  />
@@ -38,7 +64,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwvxys08ydyvjkuivjlqt.png" height="70" alt="jwt logo"  />
   <img width="12" />
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAiZAAZAA0" height="70" alt="langchain logo"  />
+  
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" height="70" alt="langgraph logo"  />
   <img width="12" />
   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2024/09/uv.svg.png" height="70" alt="uv logo"  />
@@ -242,7 +268,7 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://sequoiacap.com/wp-content/uploads/sites/6/2023/08/name-and-logo-path.svg" height="60" alt="pydantic logo"  />
+  <img src="https://velog.velcdn.com/images/betopark/post/ac0b6093-5f0f-48c5-82b3-a67995f15946/image.png" height="60" alt="pydantic logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" height="60" alt="git logo"  />
   <img width="12" />
@@ -251,6 +277,8 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/3840px-WebSocket_colored_logo.svg.png" height="60" alt="websockets logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://wp.logos-download.com/wp-content/uploads/2020/06/LibreOffice_Logo_2.png?dl" height="60" alt="libreoffice logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
   <img width="12" />
