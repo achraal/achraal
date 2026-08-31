@@ -57,6 +57,8 @@ I am a 4th-year Computer Science Engineering student specializing in **Business 
   <img width="5" />
   <img src="https://guides.micronaut.io/latest/images/micronaut_stacked_black.png" height="60" alt="micronaut logo"  />
   <img width="12" />
+  <img src="https://static.cdnlogo.com/logos/m/66/minio.svg" height="60" alt="minio logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="60" alt="kotlin logo"  />
   <img width="12" />
   
