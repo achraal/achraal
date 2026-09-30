@@ -1,7 +1,19 @@
 # Hi there, I'm AIT LAHCEN Achraf ! 👋
 
-### 🎓 Future Software Engineer | Business Information Systems Engineering Student
-I am a 4th-year Computer Science Engineering student specializing in **Business Information Systems Engineering** at EMSI and a graduate of ISGI in Digital Infrastructure **Systems and Networks**. I sit at the crossroads of technical innovation and business strategy, building scalable solutions that solve real-world enterprise problems.
+**5th-Year Computer Engineering Student (MIAGE/DSI) | Data, AI & ERP Specialist**
+
+I am a final-year Computer Engineering student at EMSI Casablanca, deeply passionate about the convergence of Data Science, Artificial Intelligence, and Enterprise Information Systems. My core focus lies in integrating intelligent AI models (local LLMs, RAG, Computer Vision), engineering robust data pipelines, and performing rigorous statistical data analysis (PCA, AFC). I love taking complex business problems and turning them into secure, data-driven enterprise solutions backed by strong ERP and IT governance principles.
+
+### 🌟 Beyond the Screen
+
+While I spend a lot of time engineering data flows, fine-tuning models, and exploring the latest in LLMOps, I make sure to keep a good balance outside of tech:
+
+- 🥋 **Sports & Martial Arts:** I stay active by playing soccer with friends and training in combat sports, specifically Muay Thai, Brazilian Jiu-Jitsu, and boxing.
+- 📺 **Anime & Manga:** I'm a huge shonen enthusiast! Always up for a debate about the latest *One Piece* chapters, *Jujutsu Kaisen* plotlines, *Bleach: Thousand-Year Blood War*, *Demon Slayer*, or classic *Naruto Shippuden* arcs.
+- 🚗 **Automotive Enthusiast:** I enjoy diving into vehicle technical specifications and engine configurations, with a particular appreciation for the 2017 Mercedes-Benz E 220 d.
+
+---
+
 
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i><br>
