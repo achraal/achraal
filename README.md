@@ -6,11 +6,11 @@ I am a final-year Computer Engineering student at EMSI Casablanca, deeply passio
 
 ### 🌟 Beyond the Screen
 
-While I spend a lot of time engineering data flows, fine-tuning models, and exploring the latest in LLMOps, I make sure to keep a good balance outside of tech:
+While my core focus is on data engineering and exploring LLM architectures, I believe in a strong work-life balance. Here’s what I enjoy outside of tech:
 
-- 🥋 **Sports & Martial Arts:** I stay active by playing soccer with friends and training in combat sports, specifically Muay Thai, Brazilian Jiu-Jitsu, and boxing.
+- 🥋 **Sports:** I stay active by playing soccer with friends and training Calisthenics.
 - 📺 **Anime & Manga:** I'm a huge shonen enthusiast! Always up for a debate about the latest *One Piece* chapters, *Jujutsu Kaisen* plotlines, *Bleach: Thousand-Year Blood War*, *Demon Slayer*, or classic *Naruto Shippuden* arcs.
-- 🚗 **Automotive Enthusiast:** I enjoy diving into vehicle technical specifications and engine configurations, with a particular appreciation for the 2017 Mercedes-Benz E 220 d.
+- 🌍 **Lifelong Learner:** Beyond computer science, I have a deep curiosity for general knowledge and scientific discoveries. I also have a strong passion for linguistics and learning new languages to connect with different cultures.
 
 ---
 
