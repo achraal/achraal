@@ -36,7 +36,7 @@ While my core focus is on data engineering and exploring LLM architectures, I be
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641740033666/3ZZGlgI9h.png" height="75" alt="beautifulsoup logo"  />
   <img width="6" />
   
-  <img src="https://support.getalembic.com/hc/theming_assets/01HZH3YX56SR6WB38CW3K54G1A" height="60" alt="alembic logo"  />
+  <img src="https://app.ashbyhq.com/api/images/org-theme-wordmark/a05d113c-01b3-4761-a755-b64d2ab2a287/1fe35ffc-a7c0-43ff-b46d-bea792e44156/3316d209-9b8f-46aa-b0cd-8150c0f103c2.png" height="60" alt="alembic logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/glmv-color.png" height="60" alt="glm-ocr logo"  />
   <img width="12" />
@@ -67,7 +67,7 @@ While my core focus is on data engineering and exploring LLM architectures, I be
   <img width="5" />
   <img src="https://images.ctfassets.net/ooa29xqb8tix/304Tlb60pUSlhG8CMC5gUf/4bc2717aad54e15dd68d275520eb06d8/claude-code.svg" height="80" alt="claude code logo"  />
   <img width="5" />
-  <img src="https://guides.micronaut.io/latest/images/micronaut_stacked_black.png" height="60" alt="micronaut logo"  />
+  <img src="https://micronaut.io/micronaut-assets/main-site/objectcomputing/download-file/5208-micronaut_stacked_black.png" height="60" alt="micronaut logo"  />
   <img width="12" />
   <img src="https://static.cdnlogo.com/logos/m/66/minio.svg" height="60" alt="minio logo"  />
   <img width="12" />
@@ -232,7 +232,6 @@ While my core focus is on data engineering and exploring LLM architectures, I be
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/42001064/120057695-b1f6c680-c062-11eb-96d5-2c43d05f9018.png" height="60" alt="tkinterdesigner logo"  />
   <img width="12" />
-  <img src="" height="60" alt="tkinter logo"  />
   <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="60" alt="seaborn logo"  />
   <img width="12" />
@@ -350,7 +349,7 @@ While my core focus is on data engineering and exploring LLM architectures, I be
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="60" alt="groovy logo"  />
   <img width="12" />
-  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" height="60" alt="packet tracer logo"  />
+  <img src="https://cisco-packet-tracer.fileion.com/storage/software/logos/2025/06/cisco-packet-tracer.png" height="60" alt="packet tracer logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" height="60" alt="heroku logo"  />
   <img width="12" />
