@@ -35,7 +35,8 @@ While my core focus is on data engineering and exploring LLM architectures, I be
   <img width="12" />
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641740033666/3ZZGlgI9h.png" height="75" alt="beautifulsoup logo"  />
   <img width="6" />
-  
+  <img src="https://images.refero.design/favicon/spline.design/d474ea8f-6bbc-4483-bfca-7e1939a7a10b.jpg" height="75" alt="beautifulsoup logo"  />
+  <img width="6" />
   <img src="https://app.ashbyhq.com/api/images/org-theme-wordmark/a05d113c-01b3-4761-a755-b64d2ab2a287/1fe35ffc-a7c0-43ff-b46d-bea792e44156/3316d209-9b8f-46aa-b0cd-8150c0f103c2.png" height="60" alt="alembic logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/glmv-color.png" height="60" alt="glm-ocr logo"  />
