@@ -41,7 +41,8 @@ While my core focus is on data engineering and exploring LLM architectures, I be
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/glmv-color.png" height="60" alt="glm-ocr logo"  />
   <img width="12" />
-  
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Azure_DevOps_icon.svg/3840px-Azure_DevOps_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="60" alt="azure devops logo"  />
+  <img width="12" />
   <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" height="60" alt="sqlalchemy logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" height="70" alt="langchain logo"  />
@@ -52,7 +53,11 @@ While my core focus is on data engineering and exploring LLM architectures, I be
   <img width="3" />
   <img src="https://blogs.vmware.com/cloud-foundation/wp-content/uploads/sites/75/2025/07/2022-vSphere-Icon.png" height="50" alt="esxi 8 logo"  />
   <img width="3" />
+  <img src="https://riverpod.dev/fr/img/logo.svg" height="60" alt="riverpod logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" height="60" alt="trello logo"  />
   <img width="12" />
   <img src="https://static.wikia.nocookie.net/logopedia/images/4/4a/Google_Antigravity_icon.svg/revision/latest/scale-to-width-down/1200?cb=20251119202403" height="60" alt="antigravity logo"  />
   <img width="12" />
@@ -112,6 +117,10 @@ While my core focus is on data engineering and exploring LLM architectures, I be
   <img src="https://upload.wikimedia.org/wikipedia/fr/6/67/Jakarta_ee_logo_stacked.png" height="60" alt="jee logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/swagger.webp" height="60" alt="swagger logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mcp.png" height="60" alt="mcp logo"  />
+  <img width="12" />
+  <img src="https://img-resize-cdn.joshmartin.ch/768x0%2C4e3bb8a002416f1617c63c228937361ddc280c287402d72d77105d4026c828ab/https://joshmartin.ch/app/uploads/2024/04/pluginicon.png" height="60" alt="grpc logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" height="60" alt="kubernetes logo"  />
   <img width="12" />
