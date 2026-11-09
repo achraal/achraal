@@ -43,6 +43,8 @@ While my core focus is on data engineering and exploring LLM architectures, I be
   <img width="12" />
   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Azure_DevOps_icon.svg/3840px-Azure_DevOps_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="60" alt="azure devops logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Flyway_logo.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original" height="60" alt="flyway logo"  />
+  <img width="12" />
   <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" height="60" alt="sqlalchemy logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" height="70" alt="langchain logo"  />
